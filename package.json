@@ -1,0 +1,24 @@
+{
+  "name": "douban-trailer",
+  "version": "1.0.0",
+  "description": "A koa2 project",
+  "main": "server�/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cookiexyx/douban-trailer.git"
+  },
+  "keywords": [
+    "movie",
+    "trailer"
+  ],
+  "author": "cookiexyx\u001b\u0001\u001b\u0001\u001b\u0001\u001b\u0001\u001b\u0001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cookiexyx/douban-trailer/issues"
+  },
+  "homepage": "https://github.com/cookiexyx/douban-trailer#readme"
+}
